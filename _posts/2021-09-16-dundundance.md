@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Dun Dun Dance!"
+title:  "둔둔댄스에 오신 것을 환엽합니다! 두둥탁!"
 ---
 
 # Welcome
